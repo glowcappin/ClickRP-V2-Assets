@@ -1,0 +1,32 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>benchessss.ymap</Item>
+    <Item>kt1_12_strm_0.ymap</Item>
+    <Item>kt1_15_strm_0.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>prop_bench_02.ytyp</Item>
+    <Item>prop_bench_01a.ytyp</Item>
+    <Item>prop_bench_06.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames />
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames>
+    <Item>prop_bench_02.ydr</Item>
+    <Item>prop_bench_01a.ydr</Item>
+    <Item>prop_bench_06.ydr</Item>
+  </YdrFilenames>
+  <YddFilenames />
+  <YftFilenames />
+  <YtdFilenames>
+    <Item>prop_bench_02.ytd</Item>
+    <Item>prop_bench_01a.ytd</Item>
+    <Item>prop_bench_06.ytd</Item>
+  </YtdFilenames>
+</CodeWalkerProject>
